@@ -19,7 +19,8 @@ A Simple Framework for Contrastive Learning of Visual Representations
 *  Maps representations, σ = ReLU non-linearity
 *  Vector representation의 유사성은 최대화, contrastive loss function은 최소화
 
-![[simclr_3](https://github.com/danakkii/Paper/assets/117612063/c31b7b5d-ef08-4d53-b032-e06bec80e845)
+
+![simclr_4](https://github.com/danakkii/Paper/assets/117612063/c626131e-7630-4bab-868e-3daea4a3fb6d)
 
 ### Algorithm 1 
 ## SimCLR's main learning algorithm
