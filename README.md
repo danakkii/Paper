@@ -1,5 +1,5 @@
 # Paper
-DL 논문 구현
+DL Paper with code
 
 |Paper|Author|Year|Conference|Link|
 |------|---|---|---|---|
