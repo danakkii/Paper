@@ -25,4 +25,17 @@ A Simple Framework for Contrastive Learning of Visual Representations
 ### Algorithm 1 - SimCLR's main learning algorithm
 ![simclr_2](https://github.com/danakkii/Paper/assets/117612063/4b21e586-b08a-4786-95ef-cb92fea2653f)
 
+### Experiment
+-  Defaul setting
+Data augmentation : random crop and resize (with random flip), color distortions, and Gaussian blur
+Encoder : ResNet-50, 2-layer MLP projection head
+           *To project the representation to a 128-dimensional latent space
+Loss : NT-Xent, LARS optimizer
+* With learning rate of 4.8(=0.3 x batch size/256), weight decay of 10-6
+Batch size : 4096 for 100 epochs
+
+### Conclusion
+Color + Crop transformer 조합이 가장 성능이 좋음
+Contrastive learning의 단점인 Negative pair가 많이 필요하다는 점을 batch size를 크게 하여 해결하였지만 batch size가 커야 성능이 좋다는 한계점 존재
+
 
