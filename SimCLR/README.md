@@ -7,6 +7,8 @@ A Simple Framework for Contrastive Learning of Visual Representations
 - Data augmentation을 통해 얻은 positive/negative sample에 대해 contrastive learning을 적용(positive pair끼리는 같게, negative pair 끼리는 다르게)  같은 데이터에 여러 방식으로 변형하여 얻은 잠재 벡터가 서로 일치하도록 학습
 
 ### The Contrastive Learning Framework
+![simclr_1](https://github.com/danakkii/Paper/assets/117612063/26df35ab-6e0e-4737-bcd5-ac83448fdd24)
+
 1.  𝑥 →  𝑑𝑎𝑡𝑎 𝑎𝑢𝑔𝑚𝑒𝑛𝑡𝑎𝑡𝑖𝑜𝑛("t’ ~ " τ)→ 𝑥 ̃"i, " 𝑥 ̃"j" (positive pair)
 * input = minibatch
 
@@ -16,3 +18,11 @@ A Simple Framework for Contrastive Learning of Visual Representations
 3. g("hi" )→𝑤^((2))  "σ(" 𝑤^((1)) "hi)"→𝑧𝑖→𝑙𝑜𝑠𝑠 𝑚𝑖𝑛𝑖𝑚𝑢𝑚
 *  Maps representations, σ = ReLU non-linearity
 *  Vector representation의 유사성은 최대화, contrastive loss function은 최소화
+
+![[simclr_3](https://github.com/danakkii/Paper/assets/117612063/c31b7b5d-ef08-4d53-b032-e06bec80e845)
+
+### Algorithm 1 
+## SimCLR's main learning algorithm
+![simclr_2](https://github.com/danakkii/Paper/assets/117612063/4b21e586-b08a-4786-95ef-cb92fea2653f)
+
+
