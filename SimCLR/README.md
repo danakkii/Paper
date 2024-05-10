@@ -22,8 +22,7 @@ A Simple Framework for Contrastive Learning of Visual Representations
 
 ![simclr_4](https://github.com/danakkii/Paper/assets/117612063/c626131e-7630-4bab-868e-3daea4a3fb6d)
 
-### Algorithm 1 
-## SimCLR's main learning algorithm
+### Algorithm 1 - SimCLR's main learning algorithm
 ![simclr_2](https://github.com/danakkii/Paper/assets/117612063/4b21e586-b08a-4786-95ef-cb92fea2653f)
 
 
