@@ -17,7 +17,7 @@ A Simple Framework for Contrastive Learning of Visual Representations
 
 3. g("hi" )→𝑤^((2))  "σ(" 𝑤^((1)) "hi)"→𝑧𝑖→𝑙𝑜𝑠𝑠 𝑚𝑖𝑛𝑖𝑚𝑢𝑚
 *  Maps representations, σ = ReLU non-linearity
-*  Vector representation의 유사성은 최대화, contrastive loss function은 최소화
+*  Vector representation의 유사성은 최대화, contrastive loss function은 최소화  
 
 
 ![simclr_4](https://github.com/danakkii/Paper/assets/117612063/c626131e-7630-4bab-868e-3daea4a3fb6d)
