@@ -8,5 +8,6 @@
 |DDCNN <br/>`Deep&Dense Convolutional Neural Network for Hyperspectral Image Classification`|Mercedes E. Paoletti|2018|Remote Sensing|[Link](https://www.mdpi.com/2072-4292/10/9/1454)|
   
 ## Review
+|Paper|Author|Year|Conference|Link| 
 |------|---|---|---|---|
 |DFFN <br/>'Hyperspectral Image Classification With Deep Feature Fusion Network'|Weiwei Song|2018|IEEE|[Link](https://ieeexplore.ieee.org/document/8283837)|
