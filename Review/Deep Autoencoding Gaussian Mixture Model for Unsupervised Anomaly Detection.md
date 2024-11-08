@@ -75,7 +75,7 @@ the above process is realized by using attention based memory addressing. We fur
 hard shrinkage operator to induce sparsity of the memory
 addressing weights, which implicitly encourage the memory items to be close to the query in the feature space
 
-→ input이 주어질 때 바로인코딩에서 디코더로 넘어가지 않고 인풋을 쿼리로 사용해서 retrieve the most relevant items in the memory.(무슨말?) → 이 아이템(쿼리?)은 종합되어 디코더에 전달된다. 이 과정에서 memory addressing 기반된 attention이 사용된다. → 이를 통해 미분가능한 hard operator 감소와 memory addressing weight 희소를 유도한다. → 이 것은 memory items을 query in the feature space에 가깝게 한다. 
+→ input이 주어질 때 바로인코딩에서 디코더로 넘어가지 않고 인풋을 쿼리로 사용해서 retrieve the most relevant items in the memory. → 이 아이템(쿼리?)은 종합되어 디코더에 전달된다. 이 과정에서 memory addressing 기반된 attention이 사용된다. → 이를 통해 미분가능한 hard operator 감소와 memory addressing weight 희소를 유도한다. → 이 것은 memory items을 query in the feature space에 가깝게 한다. 
 
 ### training
 
