@@ -11,3 +11,5 @@
 |Paper|Author|Year|Conference|Link| 
 |------|---|---|---|---|
 |DFFN <br/>`Hyperspectral Image Classification With Deep Feature Fusion Network`|Weiwei Song|2018|IEEE|[Link](https://ieeexplore.ieee.org/document/8283837)|
+|<br/>`Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection`|Bo Zong|2018|ICLR|[Link](https://openreview.net/forum?id=BJJLHbb0-)|
+|<br/>`Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection`|D Gong|2019|ICCV|[Link](https://arxiv.org/abs/1904.02639)|
