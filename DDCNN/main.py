@@ -32,7 +32,7 @@ if __name__=="__main__":
     std_list = [0, 0.1, 0.01, 0.001, 0.0001, 0.00001]
     
     # std_list = [0.00001]
-    abs_path = "C:/Users/EL-DESKTOP-7/Desktop/test/experiment_set"
+    abs_path = ""
     data_paths = ["dataset4"]
     # data_paths = ["dataset3"]
     # data_paths = [ "dataset1", "dataset2", "dataset3"]
