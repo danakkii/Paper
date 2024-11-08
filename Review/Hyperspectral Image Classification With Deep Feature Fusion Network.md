@@ -21,7 +21,8 @@
 
 - residual learning
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/04633a75-8974-43e9-b62e-6f2f6340061d/1d3876c9-2a75-4cf8-a0be-65464592227d/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/38c5d9a7-f9ca-4a1d-b791-f91b9d3697df)
+
 
 - https://pseudo-lab.github.io/pytorch-guide/docs/ch03-1.html
 
@@ -175,7 +176,8 @@ class MyModel(nn.Module):
 - residual learning = f(X) = g(x) + x(=input)
 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/04633a75-8974-43e9-b62e-6f2f6340061d/5738ec51-29b8-40f2-b5c1-38d125728fa9/Untitled.png)
+![Untitled2](https://github.com/user-attachments/assets/9b9257cd-fbbc-4bc6-b8ca-aa37c15f974c)
+
 
 - CNN uses image patches centered on labeled pixels as the input samples.
 
