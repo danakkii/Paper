@@ -14,3 +14,4 @@
 |<br/>`Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection`|Bo Zong|2018|ICLR|[Link](https://openreview.net/forum?id=BJJLHbb0-)|
 |<br/>`Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection`|D Gong|2019|ICCV|[Link](https://arxiv.org/abs/1904.02639)|
 |<br/>`SPot-the-Difference Self-Supervised Pre-training for Anomaly Detection and Segmentation`|Yang Zou|2022|European Conference on Computer Vision|[Link](https://arxiv.org/abs/2207.14315) [github](https://github.com/amazon-science/spot-diff#spot-the-difference-self-supervised-pre-training-for-anomaly-detection-and-segmentation)|
+|<br/>`Multiple Sub-Pixel Target Detection for Hyperspectral Imaging Systems`|P Addabbo|2023|IEEE|[Link](https://arxiv.org/pdf/2301.06314)|
