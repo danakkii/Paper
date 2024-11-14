@@ -2,10 +2,11 @@
 A Simple Framework for Contrastive Learning of Visual Representations
 
 
-### Abstract
+## Abstract
 - SimCLR은 unsupervised learning algorithm으로 이미지 데이터에 label이 없는 상황에서 visual representation을 추출하여 downstream task를 해결하고자 함
 - Data augmentation을 통해 얻은 positive/negative sample에 대해 contrastive learning을 적용(positive pair끼리는 같게, negative pair 끼리는 다르게)  같은 데이터에 여러 방식으로 변형하여 얻은 잠재 벡터가 서로 일치하도록 학습
 
+## Method
 ### The Contrastive Learning Framework
 ![simclr_1](https://github.com/danakkii/Paper/assets/117612063/26df35ab-6e0e-4737-bcd5-ac83448fdd24)
 
