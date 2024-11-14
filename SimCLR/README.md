@@ -22,6 +22,13 @@ A Simple Framework for Contrastive Learning of Visual Representations
 
 
 ![simclr_4](https://github.com/danakkii/Paper/assets/117612063/c626131e-7630-4bab-868e-3daea4a3fb6d)
+### NX - Xent Loss Function(The Contrastive Loss function)
+- Cross-entropy 기반
+- 벡터 사이의 유사성 비교를 위해 코사인 유사도 사용 -> 두 벡터의 방향이 같은 경우 1, 반대일 경우 -1
+- 이를 이용해 positive pari에 대한 유사성 NX-Xent Loss function을 사용하여 정의
+![그림1](https://github.com/user-attachments/assets/5cfafe43-bd5c-4338-a031-a47871027641)
+![그림2](https://github.com/user-attachments/assets/cdb49379-bc47-448d-8bbb-8e1618e61690)
+
 
 ### Algorithm 1 - SimCLR's main learning algorithm
 ![simclr_2](https://github.com/danakkii/Paper/assets/117612063/4b21e586-b08a-4786-95ef-cb92fea2653f)
